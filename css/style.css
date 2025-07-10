@@ -1,0 +1,14 @@
+  header nav{
+                min-height: 10vh;
+            }
+
+            .imgSize{
+                height: auto;
+                max-width: 100%;
+                width: 500px;
+            }
+
+
+            .buttonPanier{
+                margin-left: 50%;
+            }
